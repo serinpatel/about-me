@@ -15,6 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=serinpatel&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+## 📂 My GitHub Repositories
 
+- [IMDB Top 50 Movies Scraper](https://github.com/serinpatel/IMDB_top_25) - A web scraper that fetches IMDB's top 50 movies per year and saves them as JSON
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
